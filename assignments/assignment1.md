@@ -111,15 +111,60 @@ As someone who plays poker regularly, I struggle to track my performance across 
 
 ### Friction from Manual Entry Evidence
 
+1. [Smart Calendar Agent: Scheduling Meetings Without Clashes](https://www.ai.codersarts.com/post/smart-calendar-agent-scheduling-meetings-without-clashes): Context-aware "Smart Calendar Agent" using NLP, adaptive planning, and calendar integration to analyze availability, resolve conflicts, and schedule meetings automatically.
 
+2. [How AI Calendar Assistants Are Revolutionizing Meeting Scheduling](https://superagi.com/how-ai-calendar-assistants-are-revolutionizing-meeting-scheduling-trends-and-best-practices/): Explores AI calendar assistants’ capabilities—preference learning, time-zone coordination, and behavioral insights to reduce scheduling friction.
+
+3. [10 Best AI Calendar Assistants for Different Work Styles](https://skej.com/blog/10-best-ai-calendar-assistants-for-different-work-styles): Profiles assistants like Lindy.ai that accept natural language, pull context from emails, and handle summaries and follow-ups.
+
+4. [5 Ways an AI Scheduling Assistant Saves 10+ Hours/Week](https://skej.com/blog/how-ai-scheduling-assistant-saves-time): Shows how AI reduces cognitive load by scanning availability, respecting preferences, and automating invites.
+
+5. [AI Schedulers: How to Automate Your Calendar with AI](https://www.livex.ai/blog/ai-schedulers-how-to-automate-your-calendar-with-ai): Overview of modern AI schedulers—NLP parsing, ML-based preference learning, and project tool integration.
+
+6. [Better Appointment Scheduling With AI](https://www.oncehub.com/blog/ai-schedule-maker): OnceHub’s natural-language interface with reminders and integrations (Zoom, Salesforce, Teams).
+
+7. [Simplifying Scheduling Chaos: Top 10 AI Calendar Scheduling Tools for Busy Businesses](https://superagi.com/simplifying-scheduling-chaos-top-10-ai-calendar-scheduling-tools-for-busy-businesses-in-2025/): Overview of AI-driven scheduling tools claiming 90% reduction in scheduling time.
+
+8. [AI Scheduling Assistant: Top 10 Tools for 2025 (Tested)](https://www.salesmate.io/blog/ai-scheduling-assistants/): Survey of emerging AI scheduling assistants that understand natural language and optimize event logistics.
+
+9. [Calendar.help: Designing a Workflow-Based Scheduling Agent with Humans in the Loop](https://arxiv.org/abs/1703.08428): Academic study of a hybrid model where structured workflows are automated when possible, with humans handling edge cases.
+
+10. [Learning User Preferences and Understanding Calendar Contexts for Event Scheduling](https://arxiv.org/abs/1809.01316): Research paper on NESA, a deep learning model that learns preferences and contexts to automatically create events.
 
 ### Semantic Search Evidence
 
-
+1. [Modern Semantic Search for Images](https://medium.com/data-science/modern-semantic-search-for-images-cb1a3242631d): Tutorial on building a local semantic search app for cloud photos using Python, Pinecone, Hugging Face, and CLIP.  
+2. [How to Build a Semantic Image Search Engine with Supabase and OpenAI’s CLIP](https://blog.roboflow.com/how-to-use-semantic-search-supabase-openai-clip/): Developer guide to creating a semantic search engine with CLIP, Supabase, and Roboflow.  
+3. [Performing Semantic Searches for Images with Vertex AI](https://medium.com/google-cloud/how-to-perform-semantic-searches-for-images-with-vertex-ai-c7dacf8ee8ac): Walkthrough of using Google Cloud Vertex AI embeddings and Matching Engine for text-to-image search.  
+4. [Easily Build Semantic Image Search Using Amazon Titan](https://aws.amazon.com/blogs/machine-learning/easily-build-semantic-image-search-using-amazon-titan/): AWS blog showing how to use Titan embeddings for scalable semantic photo search.  
+5. [A Snapshot of AI-Powered Reminiscing in Google Photos](https://medium.com/people-ai-research/a-snapshot-of-ai-powered-reminiscing-in-google-photos-5a05d2f2aa46): Reflective take on how Google Photos surfaces memories with AI.  
+6. [Google Photos Is Getting a Gemini Infusion to Power Its Search](https://www.wired.com/story/google-photos-ask-photos-gemini): WIRED article on Google’s new “Ask Photos” conversational search powered by Gemini.  
+7. [A Survey on Personal Image Retrieval Systems](https://arxiv.org/abs/2107.04681): Academic survey of photo retrieval methods, including semantic approaches.  
+8. [PhotoScout: Synthesis-Powered Multi-Modal Image Search](https://arxiv.org/abs/2401.10464): Research on a multimodal image search system combining text, tags, and example images.  
+9. [Content-Based Image Retrieval](https://en.wikipedia.org/wiki/Content-based_image_retrieval): Wikipedia overview of CBIR, foundational for understanding semantic photo search.  
+10. [The Role of AI in Photo Storage: What’s Next, What’s Around Today](https://blog.photobucket.com/the-role-of-ai-in-photo-storage-whats-next-whats-around-today): Blog on how AI improves photo search and organization for consumers.
 
 ### Manual Data Entry Burden Evidence
 
+1. [The Best Poker Tools and Software for 2025](https://www.pokernews.com/poker-tools/): Covers top poker tracking tools like PokerTracker 4, Hold’em Manager 3, DriveHUD, Hand2Note, and Poker Copilot. Explains how they track hands, visualize performance, and offer real-time HUD overlays.  
 
+2. [Online Poker Tools and Software: Review of Essential Tools](https://www.pokerarticles.blog/online-poker-tools-and-software-review-of-essential-tools-and-software-for-online-poker-players-including-huds-trackers-and-calculators/): Breaks down HUDs, tracking software, and related tools that graph your results and provide statistics on win rates, action frequencies, and strategic tendencies.  
+
+3. [10 Best Poker Software Every Player Must Know in 2025](https://www.hudstore.poker/8-best-poker-software-every-player-must-know): Details eight standout poker software options, highlighting Hand2Note for its free version, customizable HUDs, hand replayer, and advanced stat analysis.  
+
+4. [How Poker Players Use Tech Tools to Analyze, Improve, and Win in 2025](https://www.boxpiper.com/posts/how-poker-players-use-tech-tools-to-analyze-improve-and-win): Explores how players leverage software like PokerTracker and GTO solvers to systematically analyze leaks, track sessions, and elevate strategy.  
+
+5. [Elevate Your Strategy: Poker Tracking Software and Advanced Reviews for Professional Players](https://www.nevernash.com/articles/elevate-poker-strategy-reviews/): A comprehensive guide (Feb 2025) covering the benefits of poker tracking software, mobile app options, and advanced tools like GTO+ and integration of data with mental game development.  
+
+6. [Poker Copilot: Poker HUD Software](https://pokercopilot.com/): Detailed overview of Poker Copilot’s features (as of Sept 2025). Covers real-time HUD overlays, leak detection, bankroll charts, multi-language support, and compatibility with major online poker networks.  
+
+7. [Hold’em Manager 3 vs. PokerTracker 4 – Once and For All!](https://www.mypokercoaching.com/holdem-manager-2-poker-tracker-4/): July 2024 comparison of HM3 and PT4, analyzing performance (memory use), interface, HUD customization, and extra tools.  
+
+8. [How to Track Your Poker Results Using a Poker Log Excel](https://www.pokerlistings.com/poker-strategies/tracking-your-records-excelent-practice): July 2025 guide for live poker players on tracking with Excel. Covers what data to log (date, hours, buy-in, cash-out, results, etc.), formulas for profit per hour, and analysis with graphs.  
+
+9. [How Can a Poker Player Track Their Results Effectively?](https://www.thehendonmob.com/how-can-a-poker-player-track-their-results-effectively/): Nov 2024 guide advocating consistent record-keeping—whether via software or spreadsheets. Highlights tools like Run It Once, custom systems, and the importance of session-by-session logging and reviewing.  
+
+10. [PokerTracker 4: Benefits and Alternatives [2025]](https://jurojinpoker.com/blog/tools/poker-tracker?nxtPcategory=tools&nxtPpath=poker-tracker): Explains how poker trackers provide statistics, in-game HUDs, and help you identify improvement areas through tracking wins, losses, and behavioral patterns.  
 
 ## Features
 
